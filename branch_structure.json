@@ -1,0 +1,21 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "feat/frontend-scaffold",
+    "feat/per-milestone-token",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "feat/frontend-scaffold": "master",
+    "feat/per-milestone-token": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "feat/frontend-scaffold",
+    "feat/per-milestone-token",
+    "origin"
+  ]
+}
